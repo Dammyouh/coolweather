@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.widget.AdapterView void setOnItemClickListener(android.widget.AdapterView.OnItemClickListener)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
